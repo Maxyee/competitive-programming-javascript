@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\bin\Debug\InterviewQusChecking.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\bin\Debug\InterviewQusChecking.exe
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\bin\Debug\InterviewQusChecking.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\obj\Debug\InterviewQusChecking.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\obj\Debug\InterviewQusChecking.exe
+c:\users\mohon\documents\visual studio 2013\Projects\InterviewQusChecking\InterviewQusChecking\obj\Debug\InterviewQusChecking.pdb
