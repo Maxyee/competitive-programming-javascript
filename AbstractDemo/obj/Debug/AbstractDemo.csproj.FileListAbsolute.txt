@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.pdb
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.exe
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.pdb
