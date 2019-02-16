@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\bin\Debug\CardInterfaceConcept.exe.config
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\bin\Debug\CardInterfaceConcept.exe
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\bin\Debug\CardInterfaceConcept.pdb
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\obj\Debug\CardInterfaceConcept.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\obj\Debug\CardInterfaceConcept.exe
+c:\users\mohon\documents\visual studio 2017\Projects\CardInterfaceConcept\CardInterfaceConcept\obj\Debug\CardInterfaceConcept.pdb
