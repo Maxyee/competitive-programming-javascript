@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\bin\Debug\AbstractFactoryStructuralCode.exe.config
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\bin\Debug\AbstractFactoryStructuralCode.exe
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\bin\Debug\AbstractFactoryStructuralCode.pdb
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\obj\Debug\AbstractFactoryStructuralCode.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\obj\Debug\AbstractFactoryStructuralCode.exe
+c:\users\mohon\documents\visual studio 2017\Projects\AbstractFactoryStructuralCode\AbstractFactoryStructuralCode\obj\Debug\AbstractFactoryStructuralCode.pdb
