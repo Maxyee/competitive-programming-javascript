@@ -1,6 +1,0 @@
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
-c:\users\mohon\documents\visual studio 2017\Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
