@@ -18,3 +18,13 @@ var arr = [-5, 10, -3, 12, -9, 5, 90, 0, 1];
 var arr2 = getPositives(arr);
 
 console.log(arr2);
+
+// another way of the solution
+
+function getPositivesShort(array) {
+  return array.filter((el) => el >= 0);
+}
+
+var array = [-5, 10, -3, 12, -9, 5, 90, 0, 1];
+var array2 = getPositivesShort(array);
+console.log(array2);
